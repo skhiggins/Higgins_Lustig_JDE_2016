@@ -54,11 +54,11 @@ version 11
 ************
 ** LOCALS **
 ************
-local 1_pof_dataprep           = 0
-local 2_income_concepts        = 0
+local 1_pof_dataprep           = 1
+local 2_income_concepts        = 1
 local 3_fiscal_impoverishment  = 1
-local 4_robustness             = 0
-local 5_stylistic_illustration = 0
+local 4_robustness             = 1
+local 5_stylistic_illustration = 1
 
 ********
 ** DO **
